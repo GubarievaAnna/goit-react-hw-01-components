@@ -1,0 +1,29 @@
+.history {
+  width: 600px;
+  font-size: 12px;
+  text-align: center;
+  border-color: rgba(154, 147, 140, 0.5);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th,
+td {
+  padding: 15px;
+}
+
+thead {
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #5d8aa8;
+}
+
+tbody {
+  color: #494d4e;
+}
+
+.operation:nth-child(2n) {
+  background-color: #c9cbc8;
+}

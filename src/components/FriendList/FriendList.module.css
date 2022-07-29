@@ -1,0 +1,9 @@
+.list {
+  width: 200px;
+  border: 1px solid #5d8aa8;
+
+  padding: 20px 0px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+}
