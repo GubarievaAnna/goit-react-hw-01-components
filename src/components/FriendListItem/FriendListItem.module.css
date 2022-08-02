@@ -22,10 +22,12 @@
 }
 
 .statusOnline {
+  composes: status;
   background-color: green;
 }
 
 .statusOffline {
+  composes: status;
   background-color: red;
 }
 .avatar {
